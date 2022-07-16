@@ -1,0 +1,36 @@
+canvas
+{
+    background-color: black;
+    border-color: darkgoldenrod;
+}
+#bg
+{
+    background-color: blanchedalmond;
+}
+#heading
+{
+background-color: rgb(255, 203, 125);
+border-width: 10px;
+border-color: bisque;
+border-style: double;
+text-align: center;
+font-family: 'Roboto Slab', serif;
+}
+.imag
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: bisque;
+    border-width: 2px;
+    border-style: ridge;
+    border-color: brown;
+}
+#content
+{
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: brown;
+    border-width: 10px;
+ width: 450px;
+ padding: 20px;
+}
